@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints and training artifacts
+results/
+*.safetensors
+*.pt
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Tooling
+.claude/
