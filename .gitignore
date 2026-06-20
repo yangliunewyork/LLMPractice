@@ -1,6 +1,9 @@
 # Jupyter
 .ipynb_checkpoints/
 
+# Downloaded datasets
+ImageClassification/data/
+
 # Model checkpoints and training artifacts
 results/
 *.safetensors
